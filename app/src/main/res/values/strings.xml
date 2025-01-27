@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AtividadeAPI</string>
+    <string name="get_post">OBTER POST</string>
+    <string name="enter_post_id">Digite o ID do post</string>
+</resources>
